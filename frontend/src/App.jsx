@@ -22,7 +22,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API = "http://localhost:5000/api/candidates";
+const API = "https://mini-ats-te1l.onrender.com/api/candidates";
 
 const STAGES = [
   "Applied",
